@@ -4,6 +4,7 @@ This code runs similar to the matlab code, so you only have to run "main_Candida
 
 If you get errors for 'device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')', change to device = torch.device('cpu'). This code appears in the 'setup.ipynb' file and "main_Candidacy_MVenegas.ipynb" file. 
 
+Note: this code is not complete, it does not take in actual mask or actual shading to the code
 
 ------Matlab original-------------
 
